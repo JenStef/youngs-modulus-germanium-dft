@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Quantum ESPRESSO temporary files
+*.wfc*
+*.mix*
+*.restart*
+*.save/
+*.xml
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Zed
+.zed/
+
+# Large output files
+*.cube

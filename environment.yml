@@ -1,0 +1,17 @@
+name: bulk-modulus-ge
+
+channels:
+
+  - conda-forge
+
+dependencies:
+
+  - python
+
+  - numpy
+
+  - pandas
+
+  - scipy
+
+  - matplotlib
