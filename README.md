@@ -65,7 +65,7 @@ Python scripts were used to generate publication-style figures and perform stati
 ## Repository Structure
 
 ```
-youngs-modulus-ge-dft/
+youngs-modulus-germanium-dft/
 ├── README.md
 ├── .gitignore
 ├── environment.yml
